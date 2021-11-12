@@ -5,7 +5,7 @@ Website: http://www.allphptricks.com/
 */
 
 
-$con = mysqli_connect("localhost","root","123456","register");
+$con = mysqli_connect("localhost","root","n866eum9","register");
 // Check connection
 if (mysqli_connect_errno())
   {
